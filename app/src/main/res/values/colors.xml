@@ -2,4 +2,16 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="lavender">#DDC0FD</color>
+    <color name="orange">#FDA03A</color>
+    <color name="tab_color">#EEEEEE</color>
+    <color name="tab_name">#6D6D6D</color>
+    <color name="lightpink">#F3D1FF</color>
+    <color name="lightgreen">#D1F6DD</color>
+    <color name="lightblue">#BEEBFF</color>
+    <color name="lightpeach">#FFECEA</color>
+    <color name="green">#51AA6D</color>
+    <color name="purple">#7A47D5</color>
+    <color name="blue">#6150F2</color>
+    <color name="maroon">#6A2368</color>
 </resources>
