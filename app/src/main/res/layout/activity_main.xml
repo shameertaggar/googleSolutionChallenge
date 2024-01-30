@@ -19,6 +19,7 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <ImageView
+            android:contentDescription="@string/woman"
             android:layout_width="370dp"
             android:layout_height="358dp"
             android:src="@drawable/pic"
@@ -49,8 +50,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="Live Healthy"
-        android:textSize="32dp"
+        android:text="@string/live_healthy"
+        android:textSize="32sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="@+id/linearLayoutCompat2"
         app:layout_constraintStart_toStartOf="@+id/linearLayoutCompat2"
@@ -61,8 +62,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="Take the first step"
-        android:textSize="32dp"
+        android:text="@string/take_the_first_step"
+        android:textSize="32sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="@+id/linearLayoutCompat2"
         app:layout_constraintStart_toStartOf="@+id/linearLayoutCompat2"
@@ -75,8 +76,8 @@
         android:layout_marginTop="23dp"
         android:layout_marginBottom="220dp"
         android:gravity="center"
-        android:text="Go through a beautiful journey "
-        android:textSize="16dp"
+        android:text="@string/go_through_a_beautiful_journey"
+        android:textSize="16sp"
         android:textStyle="italic"
         app:layout_constraintBottom_toBottomOf="@+id/linearLayoutCompat2"
         app:layout_constraintEnd_toEndOf="@+id/linearLayoutCompat2"
@@ -89,8 +90,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="2dp"
         android:gravity="center"
-        android:text="How to start and maintain a healthy life"
-        android:textSize="16dp"
+        android:text="@string/how_to_start_and_maintain_a_healthy_life"
+        android:textSize="16sp"
         android:textStyle="italic"
         app:layout_constraintEnd_toEndOf="@+id/linearLayoutCompat2"
         app:layout_constraintStart_toStartOf="@+id/linearLayoutCompat2"
@@ -114,8 +115,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Already have an account?"
-            android:textSize="12dp"
+            android:text="@string/already_have_an_account"
+            android:textSize="13sp"
             android:textStyle="italic" />
 
         <TextView
@@ -123,7 +124,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="5dp"
-            android:text="Sign up"
+            android:text="@string/sign_up"
             android:textColor="@color/orange"
             android:textStyle="bold" />
     </LinearLayout>
@@ -133,9 +134,9 @@
         android:layout_width="209dp"
         android:layout_height="61dp"
         android:background="@drawable/bg_button"
-        android:text="Get Started"
+        android:text="@string/get_started"
         android:textColor="@color/white"
-        android:textSize="24dp"
+        android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/linearLayout"
         app:layout_constraintEnd_toEndOf="parent"

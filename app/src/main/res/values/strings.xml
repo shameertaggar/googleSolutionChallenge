@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">googleChallenge</string>
+    <string name="woman">woman</string>
+    <string name="live_healthy">Live Healthy</string>
+    <string name="sign_up">Sign up</string>
+    <string name="how_to_start_and_maintain_a_healthy_life">How to start and maintain a healthy life</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="go_through_a_beautiful_journey">Go through a beautiful journey</string>
+    <string name="take_the_first_step">Take the first step</string>
+    <string name="get_started">Get Started</string>
+    <string name="log_in">LOG IN</string>
+    <string name="password">Password:</string>
+    <string name="email_address">Email address:</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_Up">Sign up</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="SIGN_UP">SIGN UP</string>
+    <string name="email_address_signup">Email address:</string>
+    <string name="already_have_an_account_signup">Already have an account?</string>
+    <string name="login">Log in</string>
+    <string name="Password">Password:</string>
 </resources>
